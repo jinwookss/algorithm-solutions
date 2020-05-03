@@ -9,7 +9,7 @@
 
 using namespace std;
 
-#define Point pair<int, int>
+typedef pair<int, int> Point;
 
 enum {
     EMPTY = 0,
@@ -27,8 +27,8 @@ int wall[3] = {
     0,
 };
 
-int dy[4] = {-1, 1, 0, 0};
-int dx[4] = {0, 0, -1, 1};
+const int dy[4] = {-1, 1, 0, 0};
+const int dx[4] = {0, 0, -1, 1};
 
 int maxSafeZone = 0;
 
