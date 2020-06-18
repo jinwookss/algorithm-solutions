@@ -81,7 +81,7 @@ int main() {
 
     for (int j = 0; j < 4; j++) {
         if (gear[j].state[0] == '1') {
-            score += pow(2, j);
+            score += pow(2, j); // score += (1 << j);
         }
     }
 
