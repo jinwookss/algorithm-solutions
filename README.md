@@ -1,2 +1,2 @@
-# boj-solutions
-Solutions of Baekjoon Online Judge(BOJ) problems coded by C++.
+# algorithm-solutions
+Solutions to algorithmic problems coded by C/C++.
