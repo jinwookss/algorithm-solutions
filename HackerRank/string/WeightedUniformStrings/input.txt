@@ -1,0 +1,13 @@
+aaabbbbcccddd
+5
+9
+7
+8
+12
+5
+
+// Yes
+// No
+// Yes
+// Yes
+// No
