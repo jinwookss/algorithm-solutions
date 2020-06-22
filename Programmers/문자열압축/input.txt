@@ -1,0 +1,10 @@
+ababcdcdababcdcd
+9
+abcabcdede
+8
+abcabcabcabcdededededede
+14
+xababcdcdababcdcd
+17
+aabbaccc
+7
