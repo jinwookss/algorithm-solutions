@@ -40,10 +40,10 @@ void dfs_recursion(int cur) {
 
 ## DFS를 이용하여 풀 수 있는 문제
 
-- [BOJ - 2048](../../BOJ/samsung/12100_2048/12100.cpp)
-- [BOJ - 퇴사](../../BOJ/samsung/14501_퇴사/14501.cpp)
-- [BOJ - 연구소](../../BOJ/samsung/14502_연구소/14502-2.cpp)
-- [BOJ - 로봇 청소기](../../BOJ/samsu/../samsung/14503_로봇청소기/14503.cpp)
-- [BOJ - 연산자 끼워넣기](../../BOJ/samsung/14888_연산자끼워넣기/14888.cpp)
-- [BOJ - 스타트와 링크](../../BOJ/samsung/14889_스타트와링크/14889.cpp)
-- [BOJ - 감시](../../BOJ/samsung/15683_감시/15683.cpp)
+- [BOJ - 2048](../../BOJ/samsung/12100_2048/)
+- [BOJ - 퇴사](../../BOJ/samsung/14501_퇴사/)
+- [BOJ - 연구소](../../BOJ/samsung/14502_연구소/)
+- [BOJ - 로봇 청소기](../../BOJ/samsu/../samsung/14503_로봇청소기/)
+- [BOJ - 연산자 끼워넣기](../../BOJ/samsung/14888_연산자끼워넣기/)
+- [BOJ - 스타트와 링크](../../BOJ/samsung/14889_스타트와링크/)
+- [BOJ - 감시](../../BOJ/samsung/15683_감시/)
