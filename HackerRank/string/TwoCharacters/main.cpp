@@ -66,5 +66,5 @@ int main() {
 
     cout << alternate(s) << endl;
 
-    return -1;
+    return 0;
 }
