@@ -4,16 +4,12 @@ Solutions to algorithmic problems coded by C/C++.
 
 ## Contents
 
-- [Base](base/)
-  - [BFS](base/bfs/README.md)
-  - [DFS](base/dfs/README.md)
-  - [ETC](base/etc/)
-    - [NextGreaterElement](base/etc/NextGreaterElement/README.md)
-  - [Sorting](base/sorting/README.md)
-  - [String](base/string/README.md)
+- [Base](Base/)
+  - [문자열](Base/String/)
+  - [자료구조](Base/DataStructure/)
+  - [탐색 알고리즘](Base/Search/)
+  - [정렬 알고리즘](Base/Sorting/)
 - [BOJ](BOJ/)
-  - [삼성 SW 역량테스트 기출문제](BOJ/samsung/)
+  - [삼성 SW 역량테스트 기출문제](BOJ/Samsung/)
 - [HackerRank](HackerRank/)
-  - [DP](HackerRank/dp/)
-  - [String](HackerRank/string/)
 - [Programmers](Programmers/)

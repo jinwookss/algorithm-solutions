@@ -29,5 +29,5 @@ void bfs(int start) {
 
 ### BFS를 이용하여 풀 수 있는 문제
 
-- [BOJ - 구슬 탈출 2](../../BOJ/samsung/13460_구슬탈출2/)
-- [BOJ - 연구소](../../BOJ/samsung/14502_연구소/)
+- [BOJ - 구슬 탈출 2](../../BOJ/Samsung/13460_구슬탈출2/)
+- [BOJ - 연구소](../../BOJ/Samsung/14502_연구소/)
