@@ -34,4 +34,4 @@ void printNextGreaterElement(vector<int> &v) {
 
 ## 응용 문제
 
-[Maximum of minimum for every window size]([../../../HackerRank/KakaoEnterprise/DiskSpaceAnalysis/](https://practice.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size/0))
+[Maximum of minimum for every window size](https://practice.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size/0)

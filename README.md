@@ -12,7 +12,7 @@ Solutions to algorithmic problems coded by C/C++.
   - [Sorting](base/sorting/README.md)
   - [String](base/string/README.md)
 - [BOJ](BOJ/)
-  - [삼성 SW 역량테스트 기출문제](BOJ/samsumg/)
+  - [삼성 SW 역량테스트 기출문제](BOJ/samsung/)
 - [HackerRank](HackerRank/)
   - [DP](HackerRank/dp/)
   - [String](HackerRank/string/)
