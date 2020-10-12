@@ -4,7 +4,6 @@
 
 using namespace std;
 
-const int MAX_SIZE = 51; // [2, 50]
 enum {
     EMPTY = 0,
     HOME = 1,
@@ -12,7 +11,6 @@ enum {
 };
 
 int N, M;
-int map[MAX_SIZE][MAX_SIZE];
 vector<int> chickens;
 vector<int> homes;
 vector<int> selectedChickens;
@@ -54,10 +52,11 @@ int main() {
     cin >> N >> M;
     for (int y = 1; y <= N; y++) {
         for (int x = 1; x <= N; x++) {
-            cin >> map[y][x];
-            if (map[y][x] == CHICKEN) {
+            int i;
+            cin >> i;
+            if (i == CHICKEN) {
                 chickens.push_back(y * (N + 1) + x);
-            } else if (map[y][x] == HOME) {
+            } else if (i == HOME) {
                 homes.push_back(y * (N + 1) + x);
             }
         }
